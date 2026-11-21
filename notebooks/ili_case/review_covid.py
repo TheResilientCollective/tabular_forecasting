@@ -1,7 +1,7 @@
 import marimo
 
 __generated_with = "0.25.2"
-app = marimo.App(width="medium")
+app = marimo.App(width="medium", auto_download=["html"])
 
 
 @app.cell
@@ -55,6 +55,11 @@ def _(DISEASE, rv):
 def _(rv, windows):
     summary = rv.ili_summary(windows)
     summary
+    return
+
+
+@app.cell
+def _():
     return
 
 

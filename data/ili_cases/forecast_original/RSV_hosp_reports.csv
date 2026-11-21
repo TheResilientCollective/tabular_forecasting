@@ -1,0 +1,22 @@
+"Disease","date","Observations","type","median","lower_90","lower_50","lower_20","upper_20","upper_50","upper_90"
+"RSV",2026-07-18,1,"partial-data estimate",2,0,1,2,3,4,8
+"RSV",2026-07-25,7,"partial-data estimate",2,0,1,2,3,4,7
+"RSV",2026-08-01,3,"partial-data estimate",2,0,1,2,3,4,6
+"RSV",2026-08-08,1,"partial-data estimate",2,0,1,2,3,4,6
+"RSV",2026-08-15,0,"partial-data estimate",2,0,1,2,3,3,6
+"RSV",2026-08-22,2,"partial-data estimate",2,0,1,2,3,3,6
+"RSV",2026-08-29,4,"partial-data estimate",2,0,1,2,3,4,6
+"RSV",2026-09-05,3,"partial-data estimate",2,0,1,2,3,4,6
+"RSV",2026-09-12,0,"partial-data estimate",2,0,1,2,3,4,6
+"RSV",2026-09-19,3,"partial-data estimate",3,0,1,2,3,4,7
+"RSV",2026-09-26,2,"partial-data estimate",3,0,2,2,3,5,7
+"RSV",2026-10-03,5,"partial-data estimate",3,0,2,3,4,5,8
+"RSV",2026-10-10,5,"partial-data estimate",4,1,2,3,5,6,9
+"RSV",2026-10-17,7,"partial-data estimate",5,1,3,4,5,7,10
+"RSV",2026-10-24,5,"partial-data estimate",5,1,3,5,6,8,12
+"RSV",2026-10-31,5,"partial-data estimate",7,2,4,6,8,9,14
+"RSV",2026-11-07,3,"partial-data estimate",8,2,5,7,9,11,17
+"RSV",2026-11-14,17,"partial-data estimate",10,3,6.75,9,11,13,22
+"RSV",2026-11-21,,"forecast",12,3,8,10,14,18,30
+"RSV",2026-11-28,,"forecast",15,4,9,12,17,23,47
+"RSV",2026-12-05,,"forecast",18,4,10.75,15,22,31,72
